@@ -1,10 +1,6 @@
 
 ## Namaste! नमस्ते!
-<<<<<<< HEAD
 #### I am an undergraduate student at IP University,New Delhi, India, currently exploring and working around Deep Learning and NLP. I am a member at R&D and Machine Leaning Team at Association for Computer Enthusiasts, and member at Computer Society of India since August 2019.Looking for research opportunities in NLP. #Learning
-=======
-#### I am an undergrad student at IP University, New Delhi, India, currently exploring and working around Deep Learning and NLP. I am a member at R&D and Machine Leaning Team at Association For Computer Enthusiasts, and member at Computer Society of India since August 2019.Looking for research opportunities in NLP. #Learning
->>>>>>> e6fb5c336d636837f40eb19dd3831bb75a197e25
   <img align="center" height="200" src="https://github.com/ikirtivardhansingh/ikirtivardhansingh.github.io/blob/master/NLP-featured-image.jpg">
 
 ### Programming Languages I've been majorly working with ⚔️ 
