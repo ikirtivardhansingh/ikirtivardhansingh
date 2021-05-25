@@ -13,7 +13,4 @@
 <img height="40" src="https://pytorch.org/assets/images/pytorch-logo.png">&nbsp;
 <img height="30" src="https://matplotlib.org/_static/logo2_compressed.svg">
 <img height="40" src="https://cdn.svgporn.com/logos/tensorflow.svg">
-<img height="50" src="https://pandas.pydata.org/static/img/pandas_white.svg"> 
-  
-  
-  
+<img height="50" src="https://pandas.pydata.org/static/img/pandas_white.svg">
