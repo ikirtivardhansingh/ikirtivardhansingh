@@ -4,6 +4,7 @@
   <img align="right" height="200" src="https://github.com/ikirtivardhansingh/ikirtivardhansingh.github.io/blob/master/NLP-featured-image.jpg">
   
 <hr style="border:2px solid gray"> </hr>
+
 ### Programming Languages I've been majorly working with ⚔️ 
 <img height="40" src="https://cdn.svgporn.com/logos/c-plusplus.svg"> &nbsp;
 <img height="40" src="https://cdn.svgporn.com/logos/python.svg">
@@ -11,6 +12,7 @@
 <img height="40" src="https://cdn.svgporn.com/logos/javascript.svg">
 
 <hr style="border:2px solid gray"> </hr>
+
 ### Libraries I've worked with 🛡️ <br>
 <img height="40" src="https://pytorch.org/assets/images/pytorch-logo.png">&nbsp;
 <img height="30" src="https://matplotlib.org/_static/logo2_compressed.svg">
