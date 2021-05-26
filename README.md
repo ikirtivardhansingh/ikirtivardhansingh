@@ -16,6 +16,6 @@
 <img height="40" src="https://cdn.svgporn.com/logos/tensorflow.svg">
 <img height="50" src="https://pandas.pydata.org/static/img/pandas_white.svg"> 
   
-<a href="https://www.linkedin.com/in/kirtivardhansingh/"><img height="20" src="https://cdn.svgporn.com/logos/linkedin-icon.svg"></a>
-<a href="https://ikirtivardhansingh.github.io"><img height="30" src="https://github.com/ikirtivardhansingh/portfolio/blob/master/web.png"></a>
+<a href="https://www.linkedin.com/in/kirtivardhansingh/"><img height="30" src="https://cdn.svgporn.com/logos/linkedin-icon.svg"></a>
+<a href="https://ikirtivardhansingh.github.io"><img height="40" src="https://github.com/ikirtivardhansingh/portfolio/blob/master/web.png"></a>
 
