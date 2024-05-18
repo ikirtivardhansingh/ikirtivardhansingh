@@ -1,1 +1,1 @@
-# ikirtivardhansingh.gituhub.io
+# ikirtivardhansingh.github.io
