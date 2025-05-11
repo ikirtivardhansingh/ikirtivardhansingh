@@ -1,5 +1,5 @@
-## <centre>Namaste! नमस्ते, there! 🙏 I am Kv!</centre> 
-### Saleslforce Developer & NLP Enthusiast
+<h1 align="center" Style="color:red;">Namaste! नमस्ते, there! 🙏 I am Kv!</h1>
+<h3 align="center">Saleslforce Developer & NLP Enthusiast</h3>
   
 <hr style="border:2px solid gray"> </hr>
 
