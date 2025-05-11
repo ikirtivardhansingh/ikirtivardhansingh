@@ -1,7 +1,7 @@
 <h1 align="center">Namaste! नमस्ते, there! 🙏 I am KVs!</h1>
 <h2 align="center">Salesforce Developer & NLP Enthusiast</h2>
   
-<hr style="border:2px solid gray"> </hr>
+
 -   🔭 I'm currently working on some public sector solutioning.<br>
 -   💬 Ask me about technical consulting, Deep Learning and AI Advancements.<br>
 -   🌱 I’m currently I am learning to learn. <br>
