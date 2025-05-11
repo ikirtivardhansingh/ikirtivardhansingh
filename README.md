@@ -2,21 +2,17 @@
 <h2 align="center">Salesforce Developer & NLP Enthusiast</h2>
   
 <hr style="border:2px solid gray"> </hr>
--   🔭 I'm currently working on some public sector solutioning.
--   💬 Ask me about technical consulting, Deep Learning and AI Advancements.
--   🌱 I’m currently I am learning to learn. 
--   🤝 I'm looking to help with colaborating over projects and papers.
--   ⚡ Fun fact I can wiggle my ears. 
+-   🔭 I'm currently working on some public sector solutioning.<br>
+-   💬 Ask me about technical consulting, Deep Learning and AI Advancements.<br>
+-   🌱 I’m currently I am learning to learn. <br>
+-   🤝 I'm looking to help with colaborating over projects and papers.<br>
+-   ⚡ Fun fact I can wiggle my ears. <br>
 
-### Programming Languages I've been majorly working with ⚔️ 
+### Tools and technologies I have been working with so far. ⚔️ 
 <img height="20" src="https://cdn.svgporn.com/logos/c-plusplus.svg"> &nbsp;
 <img height="20" src="https://cdn.svgporn.com/logos/python.svg">
 <img height="20" src="https://cdn.svgporn.com/logos/java.svg">
 <img height="20" src="https://cdn.svgporn.com/logos/javascript.svg">
-
-<hr style="border:2px solid gray"> </hr>
-
-### Libraries I've worked with 🛡️ <br>
 <img height="20" src="https://pytorch.org/assets/pytorch-logo.png">&nbsp;
 <img height="15" src="https://matplotlib.org/_static/logo2_compressed.svg">
 <img height="20" src="https://cdn.svgporn.com/logos/tensorflow.svg">
