@@ -4,13 +4,13 @@
 
 -   🔭 I'm currently working on some public sector solutioning.<br>
 -   💬 Ask me about technical consulting, Deep Learning and AI Advancements.<br>
--   🌱 I’m currently I am learning to learn. <br>
+-   🌱 I’m currently learning to learn. <br>
 -   🤝 I'm looking to help with colaborating over projects and papers.<br>
 -   ⚡ Fun fact I can wiggle my ears. <br>
 &nbsp;
 ### Tools and technologies I have been working with so far. ⚔️ 
 
-<img height="20" src="https://cdn.svgporn.com/logos/javascript.svg"><img height="20" src="https://cdn.svgporn.com/logos/c-plusplus.svg"> <img height="20" src="https://cdn.svgporn.com/logos/python.svg"><img height="20" src="https://cdn.svgporn.com/logos/java.svg"><!---<img height="20" src="https://pytorch.org/assets/pytorch-logo.png">&nbsp;--><img height="15" src="https://matplotlib.org/_static/logo2_compressed.svg"><img height="20" src="https://cdn.svgporn.com/logos/tensorflow.svg"><img height="25" src="https://pandas.pydata.org/static/img/pandas_white.svg"><img height="25" src="./assets/Salesforce.com_logo.png"> 
+<img height="20" src="https://cdn.svgporn.com/logos/javascript.svg">&nbsp;&nbsp;<img height="20" src="https://cdn.svgporn.com/logos/c-plusplus.svg"> &nbsp;&nbsp;<img height="20" src="https://cdn.svgporn.com/logos/python.svg">&nbsp;&nbsp;<img height="20" src="https://cdn.svgporn.com/logos/java.svg"><!---<img height="20" src="https://pytorch.org/assets/pytorch-logo.png">&nbsp;-->&nbsp;&nbsp;<img height="15" src="https://matplotlib.org/_static/logo2_compressed.svg"><img height="20" src="https://cdn.svgporn.com/logos/tensorflow.svg">&nbsp;&nbsp;<img height="25" src="https://pandas.pydata.org/static/img/pandas_white.svg">&nbsp;&nbsp;<img height="25" src="./assets/Salesforce.com_logo.png"> 
 
   
   <hr style="border:2px solid gray"> </hr>
