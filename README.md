@@ -17,4 +17,4 @@
   
 ### Find me overe there 🕸️
 <a href="https://www.linkedin.com/in/kirtivardhansingh/"><img height="15" src="https://cdn.svgporn.com/logos/linkedin-icon.svg"></a>&nbsp;&nbsp; &nbsp;
-<a href="https://ikirtivardhansingh.github.io"><img height="20" src="https://github.com/ikirtivardhansingh/portfolio/blob/master/web.png"></a> 
+<a href="https://ikirtivardhansingh.github.io" target=blank><img height="20" src="https://github.com/ikirtivardhansingh/portfolio/blob/master/web.png"></a> 
