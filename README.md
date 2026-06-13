@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://ikirtivardhansingh.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-visit-000375?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-visit-000000?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -117,7 +117,9 @@ LLM-powered document processing system with semantic understanding and automated
     <img src="https://img.shields.io/badge/Gmail-isinghkirtivardhan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
- 
+  <a href="https://leetcode.com/ikirtivardhansingh">
+    <img src="https://img.shields.io/badge/LeetCode-ikirtivardhansingh-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
