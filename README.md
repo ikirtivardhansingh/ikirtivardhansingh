@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://ikirtivardhansingh.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-visit-000000?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-visit-000375?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
