@@ -16,11 +16,9 @@
 
 ---
 
-## About me
+## Namaste! I'm KV 🙏
 
 Software engineer with production experience building full-stack A.I. enableed systems at scale, and ML researcher. Currently building toward applied ML.
-
-## Namaste! I'm KV 🙏
 
 - 💻 Building software and ML projects with JavaScript and Python.
 - 🤖 Into Machine Learning, Deep Learning, and whatever's breaking in AI this week.
@@ -30,57 +28,41 @@ Software engineer with production experience building full-stack A.I. enableed s
   
 ---
 
-## Working on 🔨
-
-- 🔗 Several stuff altogether
-
-
----
-
-## Tech stack
-
+## Tech stack ⚔️
+ 
 **Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+ 
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cpp" />
+  &nbsp;<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"" title="SQL" />
+</p>
 
 **Backend & infrastructure**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+ 
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,redis,docker,postman" />
+</p>
 
 **Machine learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+ 
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+  &nbsp;<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" />
+  &nbsp;<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" />
+  &nbsp;<img height="48" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" title="HuggingFace" />
+</p>
 
 **Cloud & tools**
-
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ 
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,git,github,linux,vscode" />
+</p>
 
 ---
-
 
 ## Featured projects🏗️
 
-### 🧠 Real-Time Mental State Estimation — DRDO / INMAS
+### 🧠 Real-Time Mental State Estimation- DRDO / INMAS
 EEG-based real-time mental state classification using multimodal physiological signals. Built a full inference pipeline from signal acquisition to deep learning model output. Research work conducted at DRDO/INMAS.
 
 `Python` `TensorFlow` `Signal Processing` `Deep Learning` `EEG`
