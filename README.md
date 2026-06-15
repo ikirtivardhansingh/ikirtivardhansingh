@@ -27,14 +27,13 @@ Software engineer with production experience building full-stack A.I. enableed s
 - 📍 Gurugram, India.
   
 ---
-
 ## Tech stack ⚔️
  
 **Languages**
  
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,py,cpp" />
-  &nbsp;<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"" title="SQL" />
+  &nbsp;<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="SQL" />
 </p>
 
 **Backend & infrastructure**
@@ -50,12 +49,14 @@ Software engineer with production experience building full-stack A.I. enableed s
   &nbsp;<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" />
   &nbsp;<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" />
   &nbsp;<img height="48" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" title="HuggingFace" />
+  &nbsp;<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter" />
 </p>
 
 **Cloud & tools**
  
 <p>
   <img src="https://skillicons.dev/icons?i=gcp,git,github,linux,vscode" />
+  &nbsp;<img height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" title="Salesforce" />
 </p>
 
 ---
