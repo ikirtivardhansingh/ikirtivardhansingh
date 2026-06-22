@@ -39,7 +39,7 @@ Software engineer with production experience building full-stack A.I. enableed s
 **Backend & infrastructure**
  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,mongodb,redis,docker,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,postgres,mongodb,docker,postman" />
 </p>
 
 **Machine learning**
