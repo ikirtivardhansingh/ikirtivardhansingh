@@ -61,49 +61,6 @@ Software engineer with production experience building full-stack A.I. enableed s
 
 ---
 
-## Featured projects🏗️
-
-### 🧠 Real-Time Mental State Estimation- DRDO / INMAS
-EEG-based real-time mental state classification using multimodal physiological signals. Built a full inference pipeline from signal acquisition to deep learning model output. Research work conducted at DRDO/INMAS.
-
-`Python` `TensorFlow` `Signal Processing` `Deep Learning` `EEG`
-
----
-
-### 🤖 Cognitive Navigation Agent
-Autonomous navigation agent trained with deep reinforcement learning in Unity, deployed on NVIDIA Jetson Nano for real-time on-device inference.
-
-`Unity` `Python` `Deep Reinforcement Learning` `Jetson Nano` `Embedded AI`
-
----
-
-### 📄 Semantic Document Workflow Engine
-LLM-powered document processing system with semantic understanding and automated workflow routing. Built with Node.js and RAG architecture.
-
-`Node.js` `LLMs` `RAG` `Semantic Search`
-
----
-
-
-## Connect with me
-
-<p>
-  <a href="https://linkedin.com/in/kirtivardhansingh">
-    <img src="https://img.shields.io/badge/LinkedIn-Kirtivardhan_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://ikirtivardhansingh.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-ikirtivardhansingh.github.io-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:isinghkirtivardhan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-isinghkirtivardhan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/ikirtivardhansingh">
-    <img src="https://img.shields.io/badge/LeetCode-ikirtivardhansingh-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
 
